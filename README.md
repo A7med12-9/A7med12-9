@@ -21,5 +21,5 @@ Month	Focus	Status
 codecademy-python-course My Python practice scripts, one file per exercise, organized by topic.
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=12&border_color=e4e2e2" alt="GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=12&border=e4e2e2" alt="GitHub streak" /> </p>
 <p align="center"><i>Every lab solved is one step closer. ⚡</i></p>
